@@ -1,10 +1,8 @@
-# Introduction au Python - Colonie Développeur Informatique à Montauban du 8 au 18 juillet 2021
+# Apprendre Python
 
-Ce répertoire contient des Notebooks Python utilisés lors d'ateliers lors de la colonie "Développeur Informatique" à Montauban du 8 au 18 juillet 2021 (avec Telligo).
+Ce répertoire contient des Notebooks Python qui ont pour objectif de vous faire apprendre le langage Python.
 
-J'avais rapidement créé ces ateliers pour faire une introduction légère au langage plus adaptée à la colonie (et parce que j'avais envie de faire mes workshops, c'est vrai).
-
-Je compte créer, dans un futur proche, un autre repository qui sera une version moins "customisée" et surtout beaucoup plus complète - pour au moins traiter les fonctions, et par la suite plusieurs thèmes que je trouve pertinents.
+J'avais rapidement créé des [ateliers](https://github.com/ajuelosemmanuel/Telligo_Introduction_Python) pour faire une introduction légère au langage plus adaptée à une colonie de vacances (et parce que j'avais envie de faire mes propres workshops, c'est vrai), et je les ai modifiés depuis et voici le repo "final", que je garderai à jour et auquel j'ajouterai du contenu plus ou moins régulièrement, si j'en ai le temps.
 
 ## Prérequis pour l'installation des notebooks
 
