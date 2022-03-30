@@ -7,7 +7,7 @@ J'avais rapidement créé des [ateliers](https://github.com/ajuelosemmanuel/Tell
 ## Prérequis pour l'installation des notebooks
 
 + [Python 3.8 ou plus](https://www.python.org/downloads/) : Installer le module suivant :
-    + jupyter (`pip install jupyter` dans un terminal)
+    + jupyter (`pip install jupyter` dans un terminal Linux, `py -m pip install jupyter` dans un terminal Windows)
 + [Visual Studio Code](https://code.visualstudio.com/download) : Dans VSC, installer les extensions suivantes :
     + Python
     + Pylance
