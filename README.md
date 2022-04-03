@@ -13,3 +13,17 @@ J'avais rapidement créé des [ateliers](https://github.com/ajuelosemmanuel/Tell
     + Pylance
     + Jupyter
     + Jupyter Notebook Renderers
+
+## Que faire après ce mini-cours ?
+
+Pour continuer à progresser sur le langague en lui-même, il me semble pertinent de s'entraîner sur le site [Codewars](https://www.codewars.com/). Il contient de nombreux exerices de niveaux différents, et qui vous permettront d'apprendre d'autres bases sur le langage.
+
+Mon conseil pour apprendre un maximum de choses grâce à Codewars : soumettez TOUTES vos solutions et regardez bien les 2/3 solutions les plus plébiscitées, surtout pour les tags "Best practices" et "clever". J'ai moi-même énormément appris sur les features de Python et de certaines librairies grâce à cela.
+
+Une autre manière d'apprendre est de vous lancer dans un projet. Je vous conseille de commencer par quelque chose de facile, une calculatrice avec TKinter par exemple. Ce n'est pas compliqué mais certaines personnes ont besoin d'avoir un résultat "concret" afin d'être motivées. Si c'est le cas, les projets peuvent énormément aider. Commencez par quelque chose de basique, et dès que vous êtes confiants, lancez-vous dans quelque chose de plus poussé.
+
+## To Do list (pour moi)
+
++ Ajouter une section "projets" avec des petits projets guidés (ça va être long)
++ Ajouter une liste de librairies intéressantes pour certains domaines (IA, DS, ...)
++ D'autres choses auxquelles je n'ai pas encore pensé 👽
