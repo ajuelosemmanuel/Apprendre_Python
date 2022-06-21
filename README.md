@@ -16,7 +16,7 @@ J'avais rapidement créé des [ateliers](https://github.com/ajuelosemmanuel/Tell
 
 ## Que faire après ce mini-cours ?
 
-Pour continuer à progresser sur le langague en lui-même, il me semble pertinent de s'entraîner sur le site [Codewars](https://www.codewars.com/). Il contient de nombreux exerices de niveaux différents, et qui vous permettront d'apprendre d'autres bases sur le langage.
+Pour continuer à progresser sur le langague en lui-même, il me semble pertinent de s'entraîner sur le site [Codewars](https://www.codewars.com/). Il contient de nombreux exercices de niveaux différents, et qui vous permettront d'apprendre d'autres bases sur le langage.
 
 Mon conseil pour apprendre un maximum de choses grâce à Codewars : soumettez TOUTES vos solutions et regardez bien les 2/3 solutions les plus plébiscitées, surtout pour les tags "Best practices" et "clever". J'ai moi-même énormément appris sur les features de Python et de certaines librairies grâce à cela.
 
