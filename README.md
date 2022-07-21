@@ -10,9 +10,11 @@ J'avais rapidement créé des [ateliers](https://github.com/ajuelosemmanuel/Tell
     + jupyter (`pip install jupyter` dans un terminal Linux, `py -m pip install jupyter` dans un terminal Windows)
 + [Visual Studio Code](https://code.visualstudio.com/download) : Dans VSC, installer les extensions suivantes :
     + Python
-    + Pylance
     + Jupyter
-    + Jupyter Notebook Renderers
+
+## Rappel
+
+Il faut ouvrir ce dossier dans VSC afin de travailler de manière efficace (File -> Open folder).
 
 ## Que faire après ce mini-cours ?
 
