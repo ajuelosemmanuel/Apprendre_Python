@@ -1,4 +1,4 @@
-# Fonctions utilisées pour tester les réponses dans les différents ateliers d\'introduction.
+# Fonctions utilisées pour tester les réponses dans les différents ateliers d'introduction.
 # Je vous conseille de ne pas les modifier, mais vous avez tout à fait le droit (et même intérêt) de les regarder.
 
 import ast, inspect, random, sys
@@ -14,7 +14,6 @@ class Capturing(list):
         self.extend(self._stringio.getvalue().splitlines())
         del self._stringio    # mémoire : libérée, délivrée
         sys.stdout = self._stdout
-
 
 def introduction(une_chaine, un_entier, un_flottant):
     # Fonction de test pour le premier fichier
@@ -128,7 +127,7 @@ def boucles_for(func):
         if func(rng) != rng_test:
             raise ValueError("La liste de retour est erronée. La valeur attendue pour n = "+ str(rng) + " est : " + str(rng_test))
         
-    print("Parfait ! Vous pouvez passer au fichier suivant, qui portera sur les compréhensions de liste.")
+    print("Parfait ! Vous pouvez passer au fichier suivant, qui portera sur les librairies.")
 
 def test_appreciation(appreciation):
     if not (inspect.isfunction(appreciation)) :
@@ -142,7 +141,7 @@ def test_appreciation(appreciation):
     
     res = ['Des effort qui paient, Michel ! Continue comme ça !', "Il faut fournir plus d'effort, Didier, car tes résultats ne te permettent pas de valider.", 'Des effort qui paient, Quentin ! Continue comme ça !', 'Un travail régulier et des résultats qui en témoignent. Il faudrait cependant revoir la rédaction - et ce sera alors excellent. Bravo, Alain.', "D'excellents résultats Baptiste, rien à redire. Toutes mes félicitations."]
     if output == res:
-        print("Parfait ! Vous pouvez passer au fichier suivant, qui portera sur les conditions.")
+        print("Parfait ! Vous pouvez passer au fichier suivant, qui portera sur les boucles.")
     elif output[0] != res[0]:
         print("Il y a un problème avec les arguments 13.2 et \"Michel\".\n Réponse attendue : " + res[0] + "\n Votre réponse :" + output[0])
     elif output[1] != res[1]:
@@ -153,4 +152,3 @@ def test_appreciation(appreciation):
         print("Il y a un problème avec les arguments 15 et \"Alain\".\n Réponse attendue : " + res[3] + "\n Votre réponse :" + output[3])
     elif output[4] != res[4]:
         print("Il y a un problème avec les arguments 19 et \"Baptiste\".\n Réponse attendue : " + res[4] + "\n Votre réponse :" + output[4])
-            
